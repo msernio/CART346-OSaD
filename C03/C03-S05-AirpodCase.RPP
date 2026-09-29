@@ -1,0 +1,1326 @@
+<REAPER_PROJECT 0.1 "7.43/macOS-arm64" 1790656801
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 15.68613013948854
+  ZOOM 126.28991232279755 1703 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0 0 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5800DD35-4C21-8347-9A78-2E78832DCE31}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {71AFD10D-0DDE-D643-AEE5-06357E30C180}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {86E82CDE-51A1-974A-B101-789AD64FCC5E}
+    NAME C02-S01-AirpodCharging
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {86E82CDE-51A1-974A-B101-789AD64FCC5E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37928EB3-ADCE-2146-A371-0D89AD75D4EC}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B323858A-C864-0947-BFDA-9C48D5C23413}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.93999999994412
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7C9BD64-9703-594F-B3C1-763EF4638CF3}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C64BF5C6-0A59-5448-882B-1F6C4A423BD5}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.15
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09ACD3BA-1CBA-0B40-AE5F-74BE29E23D22}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {154CA24E-152E-FA4F-8331-073A3D532B29}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.08
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5201E22-743F-2A42-9B69-39A9547CE0D2}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC7E8A67-1394-B140-A481-488F9BB4E8F3}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.53318074952996
+      SNAPOFFS 0
+      LENGTH 0.14000000004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60EAF8E6-A555-1A48-BE76-1818301F6C3B}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE34AFC9-9DD1-3147-8DCB-2CA5949A868A}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.16933634936316
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E00C21B-53F9-314B-A90E-2C39D404AE38}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70A32111-7116-5449-B61B-A7147B91E051}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.21231714718481
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {257A7E27-0BC5-F24A-A830-BC529D2814C0}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {599B5240-1B3D-CD4C-8885-CA3D8CFE1F6D}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.01751065580174
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D988C0DF-4671-6944-9A4D-2D1B081F2B63}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {210099A4-EB28-B144-B9AF-0619385AC876}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.0604914536234
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9F7A553-1FEE-634B-8708-3E2D0F6C734F}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53537C16-D9D5-D842-BF72-28AEC63F2D83}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+  <TRACK {3DC037BA-CD4F-A041-8F80-DC01776DB35D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3DC037BA-CD4F-A041-8F80-DC01776DB35D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.08
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E1D6187-9E00-1145-A15C-9780925F67BD}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F9894D6-B325-AB44-B98A-6096178A9437}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.53000000002794
+      SNAPOFFS 0
+      LENGTH 0.28999999997206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CF3FFD8-BEA3-314B-BEE0-EFB0E5F3B8DD}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7058F39-DB15-F54A-AF1D-1A94F0115032}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.02000000001863
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {467C7E0B-1D2D-274B-B753-DB439B1BBFD4}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {658A4F47-6678-5442-8726-C42443B59FA6}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.46999999997206
+      SNAPOFFS 0
+      LENGTH 0.28999999997206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {257AE882-DEF4-2245-86F8-908D66EC97A1}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB83E45E-90D0-6042-BBD0-0EAC946F124A}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.9
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4601F50A-58C4-384E-A44F-E1E8DD0A8C75}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {918BB738-BF63-DC4F-ADA4-2F40C5D6F032}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.83
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AE37D50-CC96-764E-B47B-4B89E3BE1078}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77DD47B2-E1E4-4C4D-97EE-9F4E351C435D}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.99442839529365
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB4DF6D8-C5C8-3640-8085-CD08ED0E13E9}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C558A4E-1579-814E-8735-BA38083A3744}
+      <SOURCE SECTION
+        LENGTH 1
+        MODE 3
+        STARTPOS 0.5
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.81442839524243
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC77A9D8-738D-E147-A0B5-29DEF69C9780}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5777DAE5-8938-0D47-804F-5E36AEF6D76E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.91423736477179
+      SNAPOFFS 0
+      LENGTH 0.14000000004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1930782-57A9-9A4C-A827-395D2722A963}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A2E4CDD-14A9-DB4E-9C00-50E9443F135A}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.3326036930289
+      SNAPOFFS 0
+      LENGTH 0.28999999997207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {771C4DF5-319D-B24F-9AC1-682A4986FCE3}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AA2FA6D-5A31-2345-B40E-B7E284F4F549}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.16933634936316
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B71BA9C4-2489-0349-82BB-23DC0CB32223}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD856D66-8614-D142-985E-8623C351AE96}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.01751065580174
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {696F6ACB-40DF-BE4E-9A80-3D9C48FB66B4}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19FA9515-B379-9B4D-AC8D-9039CB53FAAC}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.91346490557674
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8B67B10-42FD-1E45-9A48-3DA65FC25A80}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F010AD84-D6D3-9E4B-B966-EB408A155006}
+      <SOURCE SECTION
+        LENGTH 1
+        MODE 3
+        STARTPOS 0.5
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 17.73346490552552
+      SNAPOFFS 0
+      LENGTH 0.3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {567EB87C-DE9D-4741-93E3-DA0BD284B52D}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFF2AB85-4085-5142-B132-133CB9F13300}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+  <TRACK {0BE462EA-B3A5-B744-BBE6-5D1D81438E90}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0BE462EA-B3A5-B744-BBE6-5D1D81438E90}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4.36
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A9EB89A-7EFF-1B49-99AD-F3F776052A0C}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFA9331B-5827-8D41-BFB5-8649439A05D5}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.28999999996275
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCEF14B3-58F6-E045-8C83-3AE1D20A49BA}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95ABA640-5503-1341-9512-C91C97F65E58}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.71366030825907
+      SNAPOFFS 0
+      LENGTH 0.28999999997206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD27D022-BFEE-E947-92ED-10FE97B03572}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22DF7104-CB7F-9A4F-BBF4-12F2B3A6A8E2}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.64779621038771
+      SNAPOFFS 0
+      LENGTH 0.28999999997207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFEABF90-6A5B-E144-A5FC-77D3D76B28A9}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAB2BA45-6C3D-F14C-AEEE-244AF681A090}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.99164259296096
+      SNAPOFFS 0
+      LENGTH 0.28999999997207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87383C4F-6C39-C549-B324-C2C496209D47}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34FE2880-56CD-7B41-B85C-2FA02F4651FF}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.32116204292699
+      SNAPOFFS 0
+      LENGTH 0.28999999997207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5EA92AA-6C3A-AE43-9F31-5A35E97A32A4}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7283267A-9A2D-1245-A037-15B46A550737}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.36414284074864
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF8FB509-83FD-0142-B78E-3917A955C9D6}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A60E6F17-BC25-F249-8368-D05E3730A1E6}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.52750966456445
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC4160A5-A55A-364E-AE0C-1852FC8FBBBE}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0C5FD34-DE2C-EB43-9777-C980D9E0B184}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.57049046238611
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42C6A7A4-5DAD-7B49-8E51-5BCB28FF6310}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C567A149-9E15-6A4B-8825-FF38896C6856}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.37568397098221
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42D62951-0A9F-ED40-849C-77AB9F552B09}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E59951E-A372-6E42-BFE8-A19FEF03B3B7}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.41866476880386
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {053E1A8F-16EE-5346-93AD-759BA0008B77}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6F57CB2-1A11-7146-8103-F3C80102D8CA}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+  <TRACK {D6DB7FB4-474F-A942-A99C-8EA178E4A03E}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D6DB7FB4-474F-A942-A99C-8EA178E4A03E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.1
+      SNAPOFFS 0
+      LENGTH 0.14000000004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5CE4744-D43E-D84B-976C-F84E70584A9E}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD148133-9E44-3C4A-93C2-3B610385080D}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.02999999995343
+      SNAPOFFS 0
+      LENGTH 0.14000000004657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A67DC19D-C07F-A54E-932F-6B8DF7A8E43A}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.08
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF8B24D2-2AE4-DE46-B00D-1197C9E3DC59}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.02885282563511
+      SNAPOFFS 0
+      LENGTH 0.28999999997206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9E71783-0BDC-4B48-A9BC-D7A26FBACC6A}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2588AEC-165B-594C-A8B5-AC2E17B5FC3E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.37269920822945
+      SNAPOFFS 0
+      LENGTH 0.28999999997206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73DEAF44-74AD-6044-A038-6239E29FC811}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4F4CD96-68EF-2D4C-8EE9-E53D779339C5}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.70221865821464
+      SNAPOFFS 0
+      LENGTH 0.28999999997207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BC2D7AF-F2C0-4D46-AA03-9B20E40EB645}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 2.642798 -1
+      SOFFS 0.08
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCFDFBB5-01E7-084E-95AC-2F913F1F4AF4}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.7451994560388
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A195FC2-8579-D446-BDEA-5AA886A6256E}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E6E60B8-439A-F842-A30A-DED113D7EB0B}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.52750966456445
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3A921B3-8005-0F41-A559-C9D6AC8DEF75}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEA34E7E-62D9-3B4F-A309-1F3A1728CF91}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.37568397098221
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F40C6E5B-E55A-5945-9DFB-37EE4231FC84}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA3CECAB-5C8A-CA4C-B8E1-BB00941CB0B4}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+  <TRACK {E7C4B66B-48DA-074C-9DEC-BAB5A2850EB2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E7C4B66B-48DA-074C-9DEC-BAB5A2850EB2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 14.85702911454964
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28911C74-FA38-464E-9EBB-2228375FA8BA}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B89D984B-C242-5D46-A932-7C3707F05B04}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.90000991237129
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EB76DD0-BB92-0747-B5F3-4026A0B236AF}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6040A6D2-E332-7D47-A421-CDF50C102235}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.70520342094824
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7371A744-0D3E-8C4F-9CA6-1253EDDC66A0}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40D6C0FE-7048-774D-AB90-8F9EF1FB74D8}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.74818421876989
+      SNAPOFFS 0
+      LENGTH 0.39
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3CEAAAB-7034-934B-8030-6695E77DBF36}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AC904A9-2AD5-7E48-8284-3B0945CBF62E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+  <TRACK {CA5443F6-BA83-544C-97C0-5D417F23B8E1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CA5443F6-BA83-544C-97C0-5D417F23B8E1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 14.85702911454964
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0323905A-E0AD-9447-80C9-70C41E89B0F0}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5A0A9D3-922D-1840-901D-384CAB28FF59}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.70520342094824
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {086C0D42-E67F-764D-8DDA-A00C857A42D0}
+      IID 1
+      NAME C02-S01-AirpodCharging.wav
+      VOLPAN 1 0 1.669174 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0C096C1-7238-AA4C-B315-7B1FFCE1484C}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C02-S01-AirpodCharging.wav"
+      >
+    >
+  >
+>

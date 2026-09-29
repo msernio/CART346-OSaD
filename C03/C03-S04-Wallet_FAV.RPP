@@ -1,0 +1,1562 @@
+<REAPER_PROJECT 0.1 "7.43/macOS-arm64" 1790655482
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 128
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 12.82572729967545
+  ZOOM 43.38155544708012 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0 0 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5800DD35-4C21-8347-9A78-2E78832DCE31}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {71AFD10D-0DDE-D643-AEE5-06357E30C180}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {82430BF5-B0CD-0349-8C04-3898F7A561D7}
+    NAME C01-S04-Wallet
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {82430BF5-B0CD-0349-8C04-3898F7A561D7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CE59D92-5874-B44D-9A55-CE38CACD9681}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C92B5AE-7E14-B541-9D4B-D3CF1D1533E4}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.3399999999674
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B18F94E9-4976-0643-B966-6CC3341428F6}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD3C25C2-E9A3-E14B-907E-63071B004E35}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.21
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9ACB67A4-3A56-0C4F-8AC2-A697668BD84B}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72688FAA-4F9D-7744-9233-36B4AEC498AF}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.16576906804718
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93C4E62C-571A-3E48-A05C-BCF1D55B6437}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C125B60-2F66-F04E-A0A9-86014827C795}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.44068772065149
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8ED70C4C-B2D3-B54E-8BD6-33D0D134F4D7}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00B4FEEC-B9ED-7A4D-B033-CEC0ACECBB97}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.90068772066079
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {66FE86D1-7999-EC4E-8881-CBEE488E1243}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F79A3A1F-EE10-FD4E-A1C8-DDD38145C49C}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+  >
+  <TRACK {0F87C073-FF7F-E745-A8DD-7FF3CBC939B3}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0F87C073-FF7F-E745-A8DD-7FF3CBC939B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.33
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {384111E8-4557-2D49-8079-57AEAD542CE3}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0837EB63-2F3F-084B-AB8B-FAB824317497}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.06
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.01000000003726 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A69ACEA7-B780-4F4C-A681-81294F1175DE}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFB68A4B-33FC-AE44-B18A-947077C87AE8}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.59
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.01000000003726 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09223B3F-D0A6-E042-8F71-1DFAF2274DF6}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9587BC3-57AB-2E44-B656-1495D49D1D72}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.92999999996741
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8BD0B86-F4D6-1E40-B886-4A8E52539B1E}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {097C880E-B469-EB4A-B39B-8B8C19D65374}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.88576906801923
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99C23FDA-51EE-F24D-A879-1FA4F1803849}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {301707E4-582F-F442-98B5-9CC23CCD6D53}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.29068772063753
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41B3E6C5-53E4-2747-B0D2-EDB49CD2A331}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24FBCB47-6EC2-1540-9CF3-CBA1BC651D4E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.75068772063752
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70AF105E-47BD-0A4F-8152-80E4AE7B5C09}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78985095-1B2F-8740-B7B6-C44B4341570C}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+  >
+  <TRACK {3F3525EA-FB14-6242-B9CD-90C04422FB0A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3F3525EA-FB14-6242-B9CD-90C04422FB0A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.79000000003725
+      SNAPOFFS 0
+      LENGTH 0.45999999996275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CEC02FA2-82EA-B341-BB61-393D1545BD7E}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67B1D143-756C-CB43-B9C4-E186488EB39A}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.25
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {825CEB51-F65E-1147-B8FB-B1E566DBB8D4}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E26E5D11-E42D-E743-8BCF-08E7512C38F5}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.79
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2291363-86FC-C241-8B69-8162CDF14B8B}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CB00E23-5E7F-164B-9E2D-328DFA0C1049}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.91999999995809
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8137E691-9BDF-4746-ADBC-A71DE665C0B7}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7E22049-172F-FC41-B81C-FDD694A76C1C}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.65000000005588
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99D19E11-D2DF-F14F-A74C-798D0A78146B}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5034B66E-9073-3A43-80AD-9FEFC1A898BD}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.60576906810771
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE32BE17-9D84-B44E-95D1-2F2609A98DC6}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82D1C4D7-1C3B-A240-BD8C-A82A7846945E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.90068772054439
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A73C3EFB-BF5F-834F-B858-07A955C402D0}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85C7D86E-E801-D346-A116-5658DA7875B8}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.36068772062355
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA73E0AD-DE6B-1849-8983-459F1C6DE227}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70695B77-871E-8149-9FA6-F722FAC2D40E}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.91488577839541
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FECEB46-AA92-BA4D-A057-B8577F81D82E}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D65D49E-8EA4-F644-ABD6-E647CD18B327}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 14.06938653923194
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19FF499A-6C5E-4641-B6BC-7D2061B58167}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09405AE-841E-AA49-A565-9FD8F855BD91}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 14.21122609586078
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6E84A15-063C-654A-83BE-28D34F95B06B}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E997E6B2-FF5F-2045-98D2-4AD0655B3BE6}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.47691051843199
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01C09837-E730-154A-BDD1-86795CF14EE1}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {725F5015-7F0A-F949-B9EB-281BCC9FAA72}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.75281357259578
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {740C98BA-C5FB-AC45-93AA-75E402A376E0}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C44123BD-4D77-5F4F-92FB-3FFF415E7856}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.46740297996439
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9559055C-9F19-7D47-980A-394BFAF06C5C}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999988 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D19E95DD-59BA-D345-8250-200F9ED20429}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 15.62190374080092
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80BAC9C2-ECDA-454C-9B99-BA0A76A68C2D}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999988 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73982A0C-698F-354F-A214-50A354E533CE}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 15.76374329742976
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95AD091D-87C7-3143-BF47-8113AA6D5ED7}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCF40D62-E2D2-7B48-B1A4-0E5D7CADEDA8}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.02942772000097
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9F61C2D-29BF-AB4D-8F9A-AAA53620A791}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5010B68C-35E2-AD4C-9960-B91E95E5BFA2}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.30533077416476
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02F008A3-20CD-EE44-B791-9135BA6B916E}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA25B892-4968-184E-92A2-0D67EB20178A}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.97999264862809
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BACC061-590C-E24A-88F8-646479F7E2F6}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD6DF0E3-C58F-464C-9EDB-13F82DCD9F0A}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 17.13449340946462
+      SNAPOFFS 0
+      LENGTH 0.1519183717898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96FB379E-DA18-034D-A1B5-EB440EB61E0D}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999976 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29A1CD36-C65B-5840-9749-2DBC4CAE48C3}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 17.27633296609346
+      SNAPOFFS 0
+      LENGTH 1.51045306775898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E474317-2C07-5447-A3C3-1087A86562CB}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03FEDA7F-EE2E-2B4E-824A-DE623EE575AA}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+  >
+  <TRACK {9B7486E9-B87E-0842-98EF-0689142C331E}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9B7486E9-B87E-0842-98EF-0689142C331E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.11999999999534
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3098F73B-7E77-BF44-8580-0E9265AB6009}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81846D67-FB48-854A-A59B-1D59D816AEE9}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.38000000003726
+      SNAPOFFS 0
+      LENGTH 0.45999999996275
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E48F6293-1A86-E14E-A70F-23B9D45B679F}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6C4B0BF-B90E-4A4A-B8FB-700B5D65E3DE}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.84
+      SNAPOFFS 0
+      LENGTH 0.54000000003725
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61F001A8-F244-8748-8B69-395F71C990DF}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAEAA052-03E8-EF45-84DE-A291BA227825}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.38000000003726
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2417061A-5939-AF46-B528-8F0EA6A2B728}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5A2E833-5854-3140-BD9A-7AABE8EC9BC2}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.33576906808908
+      SNAPOFFS 0
+      LENGTH 0.54000000003726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9181D7E8-1898-AC4C-AD24-6792646728AD}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.45999999996275
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F74A77A8-9CB9-5D44-986B-84BD6B679329}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.34576906810771
+      SNAPOFFS 0
+      LENGTH 0.77
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E5F9C2F-107A-374A-8EE4-90CA99161321}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEC0C8D8-87E4-314B-A5C5-1E82A778DAB2}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.5750728890713
+      SNAPOFFS 0
+      LENGTH 0.77
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78B22D25-804A-7543-B756-5EC5FD08310F}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E24BBC1-85E8-104C-A526-9D061D6AD082}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 9.75068772063752
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7479EB36-8292-0341-9887-9EE424795B39}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB1DDC6A-3CE9-8E43-9B8C-5940C2F720BA}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.21068772071667
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1786BC81-2648-5546-9A89-081D22076352}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A25A34C-917A-1842-A6BF-AC732443315B}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.30129679386461
+      SNAPOFFS 0
+      LENGTH 0.15191837178982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA7B1840-18BD-B143-9FD4-9E425063D902}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999986 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2FD6D98-36C0-1E43-AB25-14A5E7FA9143}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.45579755467931
+      SNAPOFFS 0
+      LENGTH 0.15191837178982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {804ABB88-15D6-744B-9E7C-3FBDC4576CC3}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.95999999996275
+      PLAYRATE 3.99999999999986 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {961CE071-D825-354F-9AD1-16F406B72FFA}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12.59763711130815
+      SNAPOFFS 0
+      LENGTH 0.26690619141069
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB52AEA8-42A1-4A42-B681-90C8A43749FF}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3715598E-3111-7F4C-B0AF-C984F562A3B2}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.86332153388192
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B681C6D-6430-6549-BB21-15EA1FCEBC85}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {611200EA-E085-9648-90A0-7B91FCFF978B}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.13922458809312
+      SNAPOFFS 0
+      LENGTH 0.26690619141067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B99DA4DC-B1FD-1641-A24E-EFD2F9D84C09}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0.56750736145629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2220AF2-FDDA-F341-8D94-3EA94252C5B1}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.75281357259578
+      SNAPOFFS 0
+      LENGTH 0.83999999991151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67C0CF16-B67C-254D-8ACE-56775863BF0A}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98380D37-380C-9A49-8197-42E1F2BCB0A8}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 16.30533077416476
+      SNAPOFFS 0
+      LENGTH 0.83999999991151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90642B57-F835-D645-B5B4-CBB70CC3BFBD}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73A1523E-5ABC-854A-A41D-E1475D6506CA}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+  >
+  <TRACK {1D18CBE7-CAB6-8F49-BFB8-44F1E85B0E04}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1D18CBE7-CAB6-8F49-BFB8-44F1E85B0E04}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.70999999999535
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFF57CEB-E085-7B4D-BD81-AA053734603D}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 0
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88A690B0-15B3-AE45-8B74-F42501CB3BB6}
+      <SOURCE WAVE
+        FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.01068772063751
+      SNAPOFFS 0
+      LENGTH 0.77
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {990B2677-A9D1-9643-B655-EBD1CB323FC8}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {690F6D90-86CD-2E46-9081-087B133DE955}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 11.470687720726
+      SNAPOFFS 0
+      LENGTH 0.83999999991151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F60231BE-6BC2-EE4F-80AD-FB954318824A}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE4ED0C0-F42A-064E-8249-676348D47D06}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13.18532713050748
+      SNAPOFFS 0
+      LENGTH 0.83999999991151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3310BF44-F9D7-4E4C-8C74-9758454EA883}
+      IID 1
+      NAME C01-S04-Wallet.wav
+      VOLPAN 1 0 2.061384 -1
+      SOFFS 3.28000000014901
+      PLAYRATE 4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D5F0152-4901-6A41-991D-2970699C8EAB}
+      <SOURCE SECTION
+        LENGTH 4
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/marksernio/Documents/REAPER Media/C01-S04-Wallet.wav"
+        >
+      >
+    >
+  >
+  <TRACK {F58CAB5D-7CF4-1E4A-BFC1-03C71F3C98E5}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F58CAB5D-7CF4-1E4A-BFC1-03C71F3C98E5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {CD290E5D-F007-824B-8A35-70C8B33295AE}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CD290E5D-F007-824B-8A35-70C8B33295AE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
