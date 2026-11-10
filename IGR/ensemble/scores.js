@@ -129,16 +129,33 @@ const SCORES = [
   },  
 
   {
-    title: 'Multitrack test spread 1.005 ratio 1.01',
-    credit: "All recordings by Gabriel Vigliensoni.",
-    groups: 4,
+    title: 'C08 - First Score',
+    credit: "Mark Sernio.",
+    groups: 5,
     events: [
-      { at: '0:00', groups: 'A', play: 'demo/multitrack-test/a', ratio: 1.01},
-      { at: '0:00', spread: 1.005 },
-      { at: '0:00', groups: 'B', play: 'demo/multitrack-test/b', ratio: 1.0},
-      { at: '0:00', groups: 'C', play: 'demo/multitrack-test/c', ratio: 1.0},
-      { at: '0:00', groups: 'D', play: 'demo/multitrack-test/d', ratio: 1.0},
-      { at: '5:00', groups: 'all', stop: 'all', fade: 1 },
+      { at: '0:00', groups: 'A', play: 'C08-S01.wav', ratio: 1.01, fade: 5},
+      { at: '0:40', groups: 'A', play: 'C08-S06.wav', ratio: 1.0},
+      { at: '1:15', groups: 'A', stop: 'C08-S06.wav', fade: 3},
+      { at: '1:20', groups: 'A', stop: 'C08-S01.wav', fade: 3},
+
+
+
+
+      { at: '0:20', groups: 'B', play: 'C08-S02.wav', ratio: 1.0, fade: 10},
+      { at: '0:48', groups: 'B', play: 'C08-S06.wav', ratio: 1.0},
+      { at: '1:05', groups: 'B', stop: 'all', fade: 10},
+
+
+      { at: '0:10', groups: 'C', play: 'C08-S06.wav', ratio: 1.0},
+      { at: '1:10', groups: 'C', stop: 'all', fade: 5},
+
+      { at: '0:00', groups: 'D', play: 'C08-S04.wav', ratio: 1.0, fade: 5},
+      { at: '1:30', groups: 'D', stop: 'C08-S04.wav'},
+
+
+      { at: '0:30', groups: 'E', play: 'C08-S05.wav', ratio: 1.0, fade: 15},
+      { at: '1:20', groups: 'E', stop: 'C08-S05.wav', fade: 8},
     ],
-  },   
+  },  
+   
 ];
