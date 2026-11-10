@@ -2,3 +2,9 @@
 node_modules
 package-lock.json
 package.json
+
+# REAPER
+*.rpp-bak
+*.reapeaks
+Backups/
+Media/
